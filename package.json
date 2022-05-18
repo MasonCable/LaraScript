@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js",
-    "model": "node ./larascript/model.js"
+    "start": "nodemon index.js", 
+    "make:model": "node ./larascript-framework/model.js"
   },
   "keywords": [],
   "author": "Mason Cable",
